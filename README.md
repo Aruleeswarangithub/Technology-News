@@ -32,7 +32,7 @@ Get the latest tech news in one place with **Aruleeswaran Techy News**! 🚀 Sta
 ## ⚡ Setup Instructions
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/tech-news-website.git
+git clone https://github.com/Aruleeswarangithub/Technology-News.git
 ```
 ### 2️⃣ Open `index.html` in your web browser.
 
@@ -45,5 +45,5 @@ git clone https://github.com/your-username/tech-news-website.git
 ---
 
 ## 🙌 Thank You!
-👩‍💻 Developed by: **Grishma Gedela**
-📂 GitHub: [GRISHMA-GEDELA](https://github.com/GRISHMA-GEDELA)
+👩‍💻 Developed by: **Aruleeswaran**
+📂 GitHub: [ARULEESWARAN](https://github.com/Aruleeswarangithub)
