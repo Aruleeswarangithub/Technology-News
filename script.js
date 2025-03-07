@@ -1,4 +1,4 @@
-const apiKey = 'c723f474de37475f00cf7f6d9e4e3cc5';  // Replace with your valid NewsAPI key
+const apiKey = 'YOUR_API_KEY';  // Replace with your valid NewsAPI key
 const defaultApiUrl = `https://gnews.io/api/v4/top-headlines?category=technology&country=us&apikey=${apiKey}`;
 
 // Fetch news from the API
